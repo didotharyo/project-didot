@@ -1,1 +1,3 @@
 Ini adalah project pertama ku yang di upload pada GIT
+nah ini ketika aku menambahkan commit pada GIT
+dan menambahkan ini pula
